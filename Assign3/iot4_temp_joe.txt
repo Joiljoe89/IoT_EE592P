@@ -1,0 +1,178 @@
+Date:2018-03-19 13:32:37
+temperature17,humidity51
+Date:2018-03-19 13:37:21
+temperature17,humidity51
+Date:2018-03-19 13:37:24
+temperature17,humidity56
+Date:2018-03-19 13:37:25
+temperature17,humidity53
+Date:2018-03-19 13:37:27
+temperature17,humidity52
+Date:2018-03-19 13:37:29
+temperature17,humidity52
+Date:2018-03-19 13:37:30
+temperature17,humidity52
+Date:2018-03-19 13:37:32
+temperature17,humidity52
+Date:2018-03-19 13:37:36
+temperature17,humidity52
+Date:2018-03-19 13:37:37
+temperature17,humidity52
+Date:2018-03-19 13:38:29
+temperature17,humidity52
+Date:2018-03-19 13:38:32
+temperature17,humidity53
+Date:2018-03-19 13:38:38
+temperature17,humidity52
+Date:2018-03-19 13:38:42
+temperature17,humidity52
+Date:2018-03-19 13:38:44
+temperature17,humidity50
+Date:2018-03-19 13:38:50
+temperature17,humidity52
+Date:2018-03-19 13:38:52
+temperature17,humidity51
+Date:2018-03-19 13:38:56
+temperature17,humidity52
+Date:2018-03-19 13:38:57
+temperature17,humidity52
+Date:2018-03-19 13:39:09
+temperature17,humidity52
+Date:2018-03-19 13:39:11
+temperature17,humidity51
+Date:2018-03-19 13:39:15
+temperature17,humidity52
+Date:2018-03-19 13:39:16
+temperature17,humidity51
+Date:2018-03-19 13:39:18
+temperature17,humidity51
+Date:2018-03-19 13:39:19
+temperature17,humidity51
+Date:2018-03-19 13:39:21
+temperature17,humidity52
+Date:2018-03-19 13:39:32
+temperature17,humidity52
+Date:2018-03-19 13:39:34
+temperature17,humidity51
+Date:2018-03-19 13:39:38
+temperature17,humidity51
+Date:2018-03-19 13:39:42
+temperature17,humidity52
+Date:2018-03-19 13:39:44
+temperature17,humidity51
+Date:2018-03-19 13:39:45
+temperature17,humidity51
+Date:2018-03-19 13:39:47
+temperature17,humidity51
+Date:2018-03-19 13:39:48
+temperature17,humidity51
+Date:2018-03-19 13:39:50
+temperature17,humidity51
+Date:2018-03-19 13:39:51
+temperature17,humidity52
+Date:2018-03-19 13:40:52
+temperature17,humidity52
+Date:2018-03-19 14:10:54
+temperature17,humidity56
+Date:2018-03-19 14:40:55
+temperature17,humidity56
+Date:2018-03-19 15:10:55
+temperature17,humidity56
+Date:2018-03-19 15:40:56
+temperature17,humidity56
+Date:2018-03-19 16:10:56
+temperature16,humidity54
+Date:2018-03-19 16:41:05
+temperature16,humidity54
+Date:2018-03-19 17:11:05
+temperature16,humidity55
+Date:2018-03-19 17:41:11
+temperature16,humidity54
+Date:2018-03-19 18:11:11
+temperature16,humidity56
+Date:2018-03-19 18:41:15
+temperature16,humidity54
+Date:2018-03-19 19:11:15
+temperature16,humidity55
+Date:2018-03-19 19:41:16
+temperature16,humidity56
+Date:2018-03-19 20:11:16
+temperature16,humidity55
+Date:2018-03-19 20:41:17
+temperature16,humidity55
+Date:2018-03-19 21:11:17
+temperature16,humidity54
+Date:2018-03-19 21:41:18
+temperature16,humidity53
+Date:2018-03-19 21:24:01
+temperature17,humidity52
+Date:2018-03-19 21:54:03
+temperature17,humidity52
+IoT Lab:,Date:2018-03-19 22:14:31
+temperature17,humidity52
+IoT Lab:,Date:2018-03-19 22:44:32
+temperature17,humidity53
+IoT Lab:,Date:2018-03-19 23:44:51
+temperature19,humidity51
+IoT Lab:,Date:2018-03-20 00:14:53
+temperature20,humidity50
+IoT Lab:,Date:2018-03-20 00:45:08
+temperature20,humidity50
+IoT Lab:,Date:2018-03-20 01:15:17
+temperature21,humidity50
+IoT Lab:,Date:2018-03-20 01:45:20
+temperature21,humidity49
+IoT Lab:,Date:2018-03-20 02:15:20
+temperature21,humidity49
+IoT Lab:,Date:2018-03-20 02:45:21
+temperature21,humidity48
+IoT Lab:,Date:2018-03-20 03:15:22
+temperature21,humidity48
+IoT Lab:,Date:2018-03-20 03:45:25
+temperature21,humidity48
+IoT Lab:,Date:2018-03-20 04:15:31
+temperature21,humidity47
+IoT Lab:,Date:2018-03-20 04:45:31
+temperature21,humidity48
+IoT Lab:,Date:2018-03-20 05:15:34
+temperature21,humidity47
+IoT Lab:,Date:2018-03-20 05:45:37
+temperature21,humidity46
+IoT Lab:,Date:2018-03-20 06:15:38
+temperature21,humidity47
+IoT Lab:,Date:2018-03-20 06:45:39
+temperature21,humidity47
+IoT Lab:,Date:2018-03-20 07:15:39
+temperature20,humidity50
+IoT Lab:,Date:2018-03-20 07:45:42
+temperature20,humidity50
+IoT Lab:,Date:2018-03-20 08:15:48
+temperature20,humidity51
+IoT Lab:,Date:2018-03-20 08:45:51
+temperature20,humidity51
+IoT Lab:,Date:2018-03-20 09:15:54
+temperature20,humidity50
+IoT Lab:,Date:2018-03-20 09:45:55
+temperature19,humidity51
+IoT Lab:,Date:2018-03-20 10:15:56
+temperature19,humidity51
+IoT Lab:,Date:2018-03-20 10:45:56
+temperature19,humidity51
+IoT Lab:,Date:2018-03-20 11:15:59
+temperature19,humidity51
+IoT Lab:,Date:2018-03-20 11:46:00
+temperature19,humidity51
+IoT Lab:,Date:2018-03-20 12:16:01
+temperature18,humidity52
+IoT Lab:,Date:2018-03-20 22:37:48
+temperature18,humidity52
+IoT Lab:,Date:2018-03-21 19:37:43
+temperature18,humidity48
+IoT Lab:,Date:2018-03-21 20:07:52
+temperature18,humidity49
+IoT Lab:,Date:2018-03-21 20:37:58
+temperature19,humidity48
+IoT Lab:,Date:2018-03-21 21:08:01
+temperature19,humidity47
+IoT Lab:,Date:2018-03-21 21:38:02
+temperature20,humidity48
